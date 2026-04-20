@@ -39,7 +39,7 @@ Me chamo Gabriel Tiziano, sou desenvolvedor Backend com foco em construir APIs r
 
 ---
 
-### 🧰 Linguagens & Tecnologias
+### Linguagens & Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -59,7 +59,25 @@ Me chamo Gabriel Tiziano, sou desenvolvedor Backend com foco em construir APIs r
 
 ---
 
-### 🚀 Projetos em Destaque
+### Estatísticas
+
+<p align="left">
+  <img 
+    alt="GitHub Stats" 
+    height="180" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=GGhiaroni&show_icons=true&theme=tokyonight&locale=pt-br"
+  />
+  <img 
+    alt="Top Langs" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGhiaroni&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+</p>
+
+---
+
+### Projetos em Destaque
 
 <table>
   <tr>
@@ -100,7 +118,7 @@ Me chamo Gabriel Tiziano, sou desenvolvedor Backend com foco em construir APIs r
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       </p>
-      <a href="https://github.com/GGhiaroni/basket-service">
+      <a href="https://github.com/GGhiaroni/basketservice">
         <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
@@ -126,7 +144,7 @@ Me chamo Gabriel Tiziano, sou desenvolvedor Backend com foco em construir APIs r
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
         <img src="https://img.shields.io/badge/IA-FF6F00?style=flat-square&logo=googlegemini&logoColor=white"/>
       </p>
-      <a href="https://github.com/GGhiaroni/flow-io">
+      <a href="[https://github.com/GGhiaroni/flow-io](https://github.com/GGhiaroni/Flow.io)">
         <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
@@ -145,21 +163,3 @@ Me chamo Gabriel Tiziano, sou desenvolvedor Backend com foco em construir APIs r
     </td>
   </tr>
 </table>
-
----
-
-### 📊 Estatísticas
-
-<p align="left">
-  <img 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GGhiaroni&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-  <img 
-    alt="Top Langs" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGhiaroni&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-</p>
