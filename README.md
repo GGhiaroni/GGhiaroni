@@ -41,6 +41,8 @@ Me chamo Gabriel Tiziano, sou desenvolvedor Backend com foco em construir APIs r
 
 ### Linguagens & Tecnologias
 
+<img src="https://skillicons.dev/icons?i=java,spring,docker,mongodb,postgres,redis,mysql,kafka,rabbitmq,typescript,react,nextjs,tailwind,git&theme=dark" alt="Tecnologias" width="100%"/>
+
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
@@ -61,16 +63,27 @@ Me chamo Gabriel Tiziano, sou desenvolvedor Backend com foco em construir APIs r
 
 ### Estatísticas
 
-<p align="left">
+<p align="center">
   <img 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GGhiaroni&show_icons=true&theme=tokyonight&include_all_commits=true&hide=contribs&locale=pt-br"
+    alt="GitHub Streak" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=GGhiaroni&theme=tokyonight"
+    width="48%"
   />
   <img 
     alt="Top Langs" 
-    height="180" 
+   width="48%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGhiaroni&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4"
   />
 </p>
+
+---
+
+### Focos e Interesses
+
+- Desenvolvimento de APIs REST robustas com Spring Boot
+- Arquitetura de software escalável
+- Boas práticas de código e padrões de design
+- Integração entre sistemas e microsserviços
+- Segurança em aplicações (JWT, Spring Security)
+- Performance e otimização de bancos de dados
+- Mensageria com Kafka e RabbitMQ
