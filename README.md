@@ -1,8 +1,8 @@
-# 👨‍💻 Gabriel Tiziano
+# 👨🏻‍💻 Gabriel Tiziano
 
 **`Desenvolvedor Backend | Arquitetura escalável com Java & Spring Boot`**
 
-Olá! 👋
+Olá! 👋🏻
 
 Me chamo Gabriel Tiziano, sou desenvolvedor Backend com foco em construir APIs robustas, escaláveis e bem estruturadas. Trabalho principalmente com o ecossistema Java/Spring Boot, mas também transito pelo mundo FullStack quando o projeto pede. Tenho interesse especial em arquitetura de software, integração de sistemas e boas práticas de desenvolvimento.
 
