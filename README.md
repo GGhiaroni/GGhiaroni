@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Gabriel Tiziano
 
-**`Desenvolvedor Backend | Arquitetura escalável com Java & Spring Boot`**
+**`Desenvolvedor Backend | Arquitetura escalável com Java`**
 
 Olá! 👋🏻
 
@@ -68,11 +68,6 @@ Me chamo Gabriel Tiziano, sou desenvolvedor Backend com foco em construir APIs r
     alt="GitHub Streak" 
     src="https://github-readme-streak-stats.herokuapp.com/?user=GGhiaroni&theme=tokyonight"
     width="48%"
-  />
-  <img 
-    alt="Top Langs" 
-   width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGhiaroni&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4"
   />
 </p>
 
